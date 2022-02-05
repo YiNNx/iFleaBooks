@@ -1,0 +1,7 @@
+U00001	xiaoming    xiaoming123 13223747283	东校区韵苑16栋	21.8
+U00002	xiaoli	xiaoli123	18755447457	主校区沁苑3栋	6.6
+U00003	xiaowan	xiaowan123	13728462837	东校区韵苑5栋	30.5
+U00004	xiaowu	xiaowu123	15261763726	主校区紫菘2栋	96.9
+U00005	xiaochen	xiaochen123	11827382732	主校区博三舍	9.2
+U00006	xiaoshen	xiaoshen123	11727362736	主校区东九舍	22.6
+U00007	xiaohua	xiaohua123	13397900000	武汉	2

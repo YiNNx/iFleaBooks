@@ -1,0 +1,10 @@
+B00001	线性代数	4.8	五成新，全本有挺多笔迹，介意的uu勿拍（可送习题册答案）	U00005	xiaochen	2021-12-24	sold
+B00002	模电习题册	6.6	随缘出	U00002	xioali	2021-12-24	sold
+B00003	C++Primer	22.2	骨折价！！全新带塑封	U00003	xiaowan	2021-12-25	sold
+B00004	微积分（下）	8	祖传本，笔记非常之全[doge]	U00005	xiaochen	2021-12-28	sold
+B00005	三体第一部	10.8	暂无描述	U00004	xiaowu	2021-12-28	sold
+B00006	马原课本	7.6	九成新	U00001	xiaoming	2021-12-29	sold
+B00007	大物实验	20.5	坐标东校区，可送宿舍楼下	U00005	xioachen	2021-12-30	selling
+B00008	EffectiveC++	24.2	随缘出	U00002	xiaoli	2021-12-31	removed
+B00009	CPrimerPlus	10.1	aNiceBook!	U00001	xiaoming	2022-02-05	selling
+B00010	大话数据结构	8.8	    暂无描述	U00001	xiaoming	2022-02-05	selling
